@@ -1,6 +1,7 @@
 # تخطيط لوحة المفاتيح Arabic Custom 102
 
 **اللغات:** 🇸🇦 العربية | [🇺🇸 English](README.md)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
@@ -133,7 +134,7 @@ sudo dpkg -i arabic-custom-102-xkb_<version> .deb
 
 هذا المشروع مرخص تحت رخصة:
 
-GNU General Public License v3.0 (GPL-3.0)
+ MIT License
 
 راجع ملف LICENSE للمزيد من التفاصيل.
 
