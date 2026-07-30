@@ -132,7 +132,7 @@ Please keep the keyboard layout compatible with the Windows Arabic (102) layout 
 
 ## License
 
-This project is released under the GNU General Public License v3.0 (GPL-3.0).
+This project is released under the : MIT License.
 
 See the LICENSE file for details.
 
