@@ -1,6 +1,7 @@
 # تخطيط لوحة المفاتيح Arabic Custom 102
 
 **اللغات:** 🇸🇦 العربية | [🇺🇸 English](README.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
