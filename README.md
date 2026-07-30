@@ -1,4 +1,4 @@
-# Arabic Custom 102 Keyboard Layout
+# Arabic Custom 102 Keyboard Layout **Language:** 🇺🇸 English | [🇸🇦 العربية](README-ar.md)
 
 Windows Arabic (102) keyboard layout for Linux Mint and Debian-based Linux distributions.
 
