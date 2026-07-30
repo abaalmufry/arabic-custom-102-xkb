@@ -2,6 +2,8 @@
 
 **Languages:** 🇺🇸 English | [🇸🇦 العربية](README-ar.md)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 ---
 
 Windows Arabic (102) keyboard layout for Linux Mint and Debian-based Linux distributions.
