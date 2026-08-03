@@ -2,6 +2,9 @@
 
 **اللغات:** 🇸🇦 العربية | [🇺🇸 English](README.md)
 
+<img width="1055" height="655" alt="لقطة الشاشة_2026-08-02_06-58-22" src="https://github.com/user-attachments/assets/059d6be4-c43c-4b76-967d-469504f8346c" />
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
