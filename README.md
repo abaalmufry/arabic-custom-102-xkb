@@ -1,5 +1,9 @@
 # Arabic Custom 102 Keyboard Layout
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abaalmufry/arabic-custom-102-xkb/main/images/rIGkL.jpg" width="850" alt="Arabic 102 Keyboard Layout">
+</p>
+
 **Languages:** 🇺🇸 English | [🇸🇦 العربية](README-ar.md)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
